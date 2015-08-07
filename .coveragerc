@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = parser
+omit = parser/openstack/*
+
+[report]
+ignore-errors = True
